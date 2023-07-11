@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FAEDDA;
+  display: flex;
+  flex-direction: column;
+  color:  #a0a5ec;
+}
+
+#my_dataviz {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #eecef5; */
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
